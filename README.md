@@ -1,1 +1,1 @@
-This is a repo for AI and Pythond based pet projects.
+## This is a repo for AI and Python based pet projects.
